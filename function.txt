@@ -78,3 +78,11 @@ DOM methods:-
 
 innerText :- it is a property used to manipulate / add just plain text.
 innerHTML :- it is a property used to add /remove the content along with tags.
+
+
+
+
+
+dynamic creation of htlm element from javascript:-
+**************************************************
+- to create dynamic element in javascript we have a methods called as "documenmt.createElementb
