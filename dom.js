@@ -61,7 +61,7 @@
  // ! addEventListner("event", ()=>{})
 //     btn.addEventListener("click",()=>{
 //         console.log("Button clicked");
-//         // alert("hi");
+        // alert("hi");
 //         document.body.style.backgroundColor="tomato"
 //     })
 // let divBlock=document.getElementById("divblock");
@@ -100,7 +100,7 @@
 
 // let topEle = document.createElement("div");
 // topEle.setAttribute("class", "topBlock");
-// // console.log(topEle);
+// console.log(topEle);
 
 // let image = document.createElement("img");
 // image.src="https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg "
@@ -110,7 +110,7 @@
 
 // let bottomEle = document.createElement("div");
 // bottomEle.setAttribute("class", "bottomBlock");
-// // console.log(bottomEle);
+// console.log(bottomEle);
 
 
 
